@@ -10,5 +10,9 @@ terraform {
       source  = "Azure/azapi"
       version = ">=1.12.1"
     }
+    time = {
+      source  = "hashicorp/time"
+      version = "~> 0.7.2"
+    }
   }
 }

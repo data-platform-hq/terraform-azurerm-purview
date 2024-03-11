@@ -1,7 +1,9 @@
 output "id" {
-  value = azurerm_purview_account.this.id
+  description = "The ID of Purview Account"
+  value       = azurerm_purview_account.this.id
 }
 
 output "principal_id" {
-  value = azurerm_purview_account.this.identity
+  description = "The Principal ID of Purview Account"
+  value       = azurerm_purview_account.this.identity
 }
