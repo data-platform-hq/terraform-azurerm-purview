@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-purview/compare/v1.1.0...v1.2.0) (2026-02-02)
+
+
+### Features
+
+* upgrade provider to AzureRM v4.0 ([36cca64](https://github.com/data-platform-hq/terraform-azurerm-purview/commit/36cca64865a4024f295ecee714df966c3d0dc54b))
+
 # [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-purview/compare/v1.0.1...v1.1.0) (2024-09-10)
 
 
